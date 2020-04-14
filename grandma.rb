@@ -17,5 +17,12 @@ def speak_to_grandma(phrase)
     {
       puts "HUH?! SPEAK UP, SONNY!"
     }
-  elsif(phrase)
+  elsif(phrase.upcase==phrase.upcase)
+  {
+    puts "NO, NOT SINCE 1938!"
+  }
+else
+  {
+    puts "I LOVE YOU TOO PUMPKIN!"
+  }
 end
