@@ -13,9 +13,9 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(phrase=)
-  if(phrase==phra)
+  if(phrase=="I LOVE YOU GRANDMA!")
     {
-      puts "HUH?! SPEAK UP, SONNY!"
+      puts "I LOVE YOU TOO PUMPKIN!"
     }
   elsif(phrase.upcase==phrase.upcase)
   {
@@ -23,6 +23,6 @@ def speak_to_grandma(phrase=)
   }
   else
   {
-    puts "I LOVE YOU TOO PUMPKIN!"
+    puts "HUH?! SPEAK UP, SONNY!"
   }
 end
